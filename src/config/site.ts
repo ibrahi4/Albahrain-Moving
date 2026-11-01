@@ -33,8 +33,8 @@ export const siteConfig: SiteConfig = {
   description:
     "شركة البحرين لنقل الأثاث متخصصة في نقل العفش والأثاث المنزلي والمكتبي في القاهرة الجديدة، التجمع الخامس، مدينتي، الشيخ زايد، و6 أكتوبر. فريق محترف، تغليف آمن، ونش رفع، فك وتركيب، وضمان شامل على كل المنقولات.",
   url: "https://www.albahrain-moving.com/",
-  phone: "01044212354",
-  whatsapp: "201044212354",
+  phone: "01021396044",
+  whatsapp: "+201021396044",
   email: "info@albahrainmoving.com",
   address: "ميدان الجيش - العباسية  - القاهرة",
   country: "مصر",
